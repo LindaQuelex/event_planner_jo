@@ -138,8 +138,8 @@ hr {
 }
 .btn-default {
 	text-transform: uppercase;
-	color: #54d0dd;
-	background-color: #414a52;
+	color: #ffffff;
+	background-color: #d582b273;
 	border: 0;
 	padding: 14px 20px;
 	margin: 0;
@@ -149,7 +149,7 @@ hr {
 	transition: all 0.3s;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
-	color: #54d0dd;
+	color: #dd5496;
 	background-color: #343b42;
 }
 /* Header Section */
@@ -190,10 +190,10 @@ header .intro-text {
 #about {
 	padding: 120px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,7fdce6+0,54d0dd+100 */
-	background: rgb(84,208,221); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: rgb(245, 172, 206); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245,182,209) 0%, rgba(245, 206, 223) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245,182,209) 0%, rgba(245, 206, 223) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245,182,209) 0%, rgba(245, 206, 223) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
 }
 #about .about-text {
@@ -217,7 +217,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', end
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#414a52', GradientType=0 ); /* IE6-9 */
 }
 #portfolio h2 {
-	color: #54d0dd;
+	color: rgb(245, 172, 206);
 }
 .categories {
 	padding-bottom: 30px;
@@ -232,16 +232,16 @@ ol.type li {
 }
 ol.type li a {
 	background: #414a52;
-	color: #54d0dd;
+	color: rgb(245, 172, 206);
 	padding: 12px 24px;
 	text-transform: uppercase;
 }
 ol.type li a.active {
-	background: #54d0dd;
+	background: rgb(245, 172, 206);
 	color: #414a52;
 }
 ol.type li a:hover {
-	background: #54d0dd;
+	background: rgb(245, 172, 206);
 	color: #414a52;
 }
 .isotope-item {
@@ -345,10 +345,10 @@ ol.type li a:hover {
 #contact {
 	padding: 120px 0 60px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,7fdce6+0,54d0dd+100 */
-	background: rgb(84,208,221); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(84,208,221,1) 0%, rgba(127,220,230,1) 0%, rgba(84,208,221,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: rgb(245, 206, 223); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245,182,209) 0%, rgba(245, 206, 223) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245,182,209) 0%, rgba(245, 206, 223) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245, 206, 223) 0%, rgba(245,182,209) 0%, rgba(245, 206, 223) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54d0dd', endColorstr='#54d0dd', GradientType=0 ); /* IE6-9 */
 }
 #contact form {
